@@ -24,4 +24,3 @@ print("These are the names of the columns:", df.columns)
 sns.boxplot(x=df['column-name'], color="lightgreen")
 plt.show()
 
-#
