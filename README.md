@@ -31,6 +31,7 @@ Exploratory Data Analysis (EDA) is the initial stage of data analysis that helps
 ## Requirements & Installation
 
 -Python 3.
+
 -Any Integrated Development Environment (IDE) as PyCharm [https://www.jetbrains.com/pycharm/] or Visual Code [https://code.visualstudio.com/].
 
 ## Usage
