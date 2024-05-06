@@ -1,3 +1,6 @@
+### - WORK IN PROGRESS!
+
+
 ## Explorator Data Analysis
 
 Exploratory Data Analysis (EDA) is the initial stage of data analysis that helps to summarize the main characteristics of the data enabling identification of patterns, relationships and deviations; often employing data visualization methods.The present EDA repository provides a collection of commands and scripts to learn how to investigate data sets, focusing on spatial proteomics.
