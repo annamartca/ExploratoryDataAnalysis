@@ -7,7 +7,7 @@ Exploratory Data Analysis (EDA) is the initial stage of data analysis that helps
 - **Descriptive statistics**
   - Calculate basic statistical measures such as mean, median, mode, standard deviation, to summarize the central tendency, dispersion, and shape of the data.
 
--**Data Visualization**
+- **Data Visualization**
   -  Create plots and charts (e.g., histograms, box plots, scatter plots) to visually explore the data and gain insights into its distribution, relationships between variables, and potential outliers.
 
 - **Data Cleaning**
